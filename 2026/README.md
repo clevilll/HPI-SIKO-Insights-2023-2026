@@ -95,6 +95,17 @@ These discussions align closely with my research interests in
 
 ---
 
+| #     | Workshop Title (English)                                                                  | Location             | Brief Workshop Content                                                                                                                                                                                                                                    |
+| ----- | ----------------------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **From Grid to Gateway: Securing Critical Infrastructure in a New Era of Threats**        | **HE.51/52**         | Explores protecting Europe's critical infrastructure, particularly energy systems, against evolving cyber and physical threats. Covers OT security, supply-chain resilience, EU Cyber Resilience regulations, governance, and cross-sector collaboration. |
+| **2** | **The Model Is Not the Security Boundary: Secure Architectures for Autonomous AI Agents** | **H2.57/58**         | Examines secure deployment of autonomous AI agents. Focuses on securing tools, permissions, context sources, execution environments, audit trails, and compliance with BSIG, NIS2, the EU AI Act, and IEC 62443.                                          |
+| **3** | **Cyber Crisis in the Boardroom: Executive Decision-Making During Cyber Incidents**       | **Haus D – Room D1** | A hands-on tabletop exercise simulating a ransomware attack. Participants practice incident response, executive decision-making, crisis communication, recovery planning, Zero Trust principles, and cyber resilience.                                    |
+| **4** | **Organizational Resilience: Building Future-Ready Organizations**                        | **Haus D – Room D0** | An interactive workshop on developing resilient organizations through adaptability, learning, and Future Skills. Participants explore practical approaches to managing uncertainty and strengthening organizational resilience.                           |
+| **5** | **From Risk to Resilience: Securing Supply Chains in an Era of Geopolitical Tensions**    | **HS3**              | Discusses cyber and geopolitical risks affecting global supply chains. Participants identify attack vectors, evaluate manipulation scenarios, and develop best practices for improving supply-chain integrity and resilience.                             |
+| **6** | **Responsible AI: Developing Trustworthy AI Systems Without Unintended Consequences**     | **D-Space**          | Focuses on Responsible and Sustainable AI. Explores how to design AI systems that remain robust, transparent, and accountable while minimizing unintended consequences and considering long-term societal impacts.                                        |
+                                     |
+
+---
 
 # SIKO 2026 – Conference Partners
 <p align="center">
