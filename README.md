@@ -15,6 +15,8 @@ Personal observations, technical notes, research reflections, and cybersecurity 
 
 
 # SIKO Timeline & My Contributions
+<img width="1110" height="503" alt="image" src="https://github.com/user-attachments/assets/4f022480-5034-4d1d-9d4c-1ee52ca7fb40" />
+
 
 | Year | Conference Dates | Duration | Contribution | Resources (HPI Tele-TASK Portal) | Status |
 |------|------------------|:-------:|--------------|----------------------------------|:------:|
