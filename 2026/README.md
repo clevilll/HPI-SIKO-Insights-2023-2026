@@ -108,3 +108,7 @@ These discussions align closely with my research interests in
 
 - YT video: https://www.youtube.com/watch?v=CzsmNlepDHs
 - HPI-Teletask-Portal video series: https://www.tele-task.de/series/1597/
+
+
+# website:
+- https://hpi.de/potsdamer-konferenz-fuer-nationale-cybersicherheit/
