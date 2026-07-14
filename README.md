@@ -83,17 +83,19 @@ SIKO-Insights-2023-2026/
 
 ## References
 
+# videos:
+
 
 [1]: https://github.com/clevilll/Cyper-Range-Simulator-BSI-2-
 
-- ### HPI YT channel: https://www.youtube.com/@hpitv1/search?query=Potsdamer%20Konferenz%20f%C3%BCr%20Nationale%20CyberSicherheit
+- HPI YT channel: https://www.youtube.com/@hpitv1/search?query=Potsdamer%20Konferenz%20f%C3%BCr%20Nationale%20CyberSicherheit
 
 [2023]: https://www.youtube.com/watch?v=n86WdBeszzY
 [2024]: https://www.youtube.com/watch?v=eQyAwRR71a0
 [2025]: https://www.youtube.com/watch?v=S_0ZiGJgTLg
 [2026]: https://www.youtube.com/watch?v=CzsmNlepDHs
 
-- ### HPI Tele-TASK: https://www.tele-task.de/search/series/Potsdamer%20Konferenz%20für%20Nationale%20CyberSicherheit/
+- HPI-Teletask-Portal video series: https://www.tele-task.de/search/series/Potsdamer%20Konferenz%20für%20Nationale%20CyberSicherheit/
 
 [SIKO-2027]: https://www.tele-task.de/search/series/Potsdamer%20Konferenz%20für%20Nationale%20CyberSicherheit/
 [SIKO-2026]: https://www.tele-task.de/series/1597/
@@ -108,3 +110,6 @@ SIKO-Insights-2023-2026/
 [SIKO-2015]: https://www.tele-task.de/series/1062/
 [SIKO-2014]: https://www.tele-task.de/series/1010/
 [SIKO-2013]: https://www.tele-task.de/series/960/
+
+# website:
+- https://hpi.de/potsdamer-konferenz-fuer-nationale-cybersicherheit/
