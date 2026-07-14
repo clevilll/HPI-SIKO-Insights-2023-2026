@@ -1,3 +1,17 @@
+
+[![YT](https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/002/348/625/datas/full_width.png)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/HIHbEkMPbuk?si=3Pb9e486oLxcWPqz))
+
+
+🏆 **Winner of HPIHack 2023** – Developed the [Cyber Range Simulator][1] with the team.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d59235ad-d5ce-404a-aedb-0db0be3191d6"
+       alt="SIKO Banner"
+       width="600">
+</p>
+
+
 # SIKO 2023 – Conference Program Overview
 
 **Conference:** Potsdamer Konferenz für Nationale CyberSicherheit  
@@ -55,3 +69,8 @@
 - **Technical Report:** 1
 - **Award Ceremony:** 1
 - **Opening / Closing Sessions:** 4
+
+## References
+
+[1]: https://github.com/clevilll/Cyper-Range-Simulator-BSI-2-
+
