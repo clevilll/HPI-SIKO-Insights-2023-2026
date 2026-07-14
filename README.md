@@ -24,7 +24,7 @@ Personal observations, technical notes, research reflections, and cybersecurity 
 | [**2026**][2026] | **24–25 June 2026** | 2 Days | 🤝 **Volunteer Student Assistant & Conference Attendee** – Contributed to discussions on AI, SIEM, SOC, cloud security, digital sovereignty, and collaborative cybersecurity research. | [SIKO 2026][SIKO-2026] | ✅ Attended |
 | [**2025**][2025] | **21–22 May 2025** | 2 Days | 🤝 **Volunteer Student Assistant & Conference Attendee** – Supported conference organization and attended keynote sessions, panels, workshops, and networking events. | [SIKO 2025][SIKO-2025] | ✅ Attended |
 | [**2024**][2024] | **19–20 June 2024** | 2 Days | 🛡️ **Security Engineering (Sec-Eng) Team Booth** – Presented advanced security analytics and AI-assisted cybersecurity projects. | [SIKO 2024][SIKO-2024] | ✅ Attended |
-| [**2023**][2023] | **19–20 April 2023** | 2 Days | 🏆 **Winner of HPIHack 2023** – Developed the [Cyber Range Simulator][2] with the team. | [SIKO 2023][SIKO-2023] | ✅ Attended |
+| [**2023**][2023] | **19–20 April 2023** | 2 Days | 🏆 **Winner of HPIHack 2023** – Developed the [Cyber Range Simulator][1] with the team. | [SIKO 2023][SIKO-2023] | ✅ Attended |
 | **2022** | **22–23 June 2022** | 2 Days | — | [SIKO 2022][SIKO-2022] | Historical |
 | **2019** | **5–6 June 2019** | 2 Days | — | [SIKO 2019][SIKO-2019] | Historical |
 | **2018** | **21–22 June 2018** | 2 Days | — | [SIKO 2018][SIKO-2018] | Historical |
