@@ -11,6 +11,16 @@ Personal observations, technical notes, research reflections, and cybersecurity 
 - 📅 [2025](2025/README.md)
 - 📅 [2026](2026/README.md)
 
+## Contents
+
+- 📅 [Conference Program](program.md)
+- 🎤 [Keynotes](keynotes.md)
+- 💬 [Panels](panels.md)
+- 🏢 [Exhibitors](exhibitors.md)
+- 📝 [My Observations](observations.md)
+- 💡 [Research Ideas](research-ideas.md)
+- 🤝 [Networking](networking.md)
+
 ## Conference Timeline (2023–2027)
 
 
@@ -36,15 +46,6 @@ Personal observations, technical notes, research reflections, and cybersecurity 
 
 ---
 
-## Contents
-
-- 📅 [Conference Program](program.md)
-- 🎤 [Keynotes](keynotes.md)
-- 💬 [Panels](panels.md)
-- 🏢 [Exhibitors](exhibitors.md)
-- 📝 [My Observations](observations.md)
-- 💡 [Research Ideas](research-ideas.md)
-- 🤝 [Networking](networking.md)
 
 ```
 SIKO-Insights-2023-2026/
