@@ -4,22 +4,6 @@ Personal observations, technical notes, research reflections, and cybersecurity 
 # Potsdamer Konferenz für Nationale CyberSicherheit (SIKO)
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/7f3bcf29-53fe-446e-8234-c727a8cba28f" />
 
-## Years
-
-- 📅 [2023](2023/README.md)
-- 📅 [2024](2024/README.md)
-- 📅 [2025](2025/README.md)
-- 📅 [2026](2026/README.md)
-
-## Contents
-
-- 📅 [Conference Program](program.md)
-- 🎤 [Keynotes](keynotes.md)
-- 💬 [Panels](panels.md)
-- 🏢 [Exhibitors](exhibitors.md)
-- 📝 [My Observations](observations.md)
-- 💡 [Research Ideas](research-ideas.md)
-- 🤝 [Networking](networking.md)
 
 ## Conference Timeline (2023–2027)
 
@@ -87,6 +71,23 @@ SIKO-Insights-2023-2026/
 │
 └── references/
 ```
+
+## Years
+
+- 📅 [2023](2023/README.md)
+- 📅 [2024](2024/README.md)
+- 📅 [2025](2025/README.md)
+- 📅 [2026](2026/README.md)
+
+## Contents
+
+- 📅 [Conference Program](program.md)
+- 🎤 [Keynotes](keynotes.md)
+- 💬 [Panels](panels.md)
+- 🏢 [Exhibitors](exhibitors.md)
+- 📝 [My Observations](observations.md)
+- 💡 [Research Ideas](research-ideas.md)
+- 🤝 [Networking](networking.md)
 
 ---
 
